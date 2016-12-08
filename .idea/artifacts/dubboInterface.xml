@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dubboInterface">
+    <output-path>$PROJECT_DIR$/dubboInterface/target</output-path>
+    <root id="archive" name="dubboInterface.jar">
+      <element id="module-output" name="dubboInterface" />
+    </root>
+  </artifact>
+</component>
