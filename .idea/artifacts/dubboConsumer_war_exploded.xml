@@ -23,9 +23,7 @@
           <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
           <element id="library" level="project" name="Maven: com.github.sgroschupf:zkclient:0.1" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
-          <element id="archive" name="dubboInterface.jar">
-            <element id="module-output" name="dubboInterface" />
-          </element>
+          <element id="file-copy" path="$PROJECT_DIR$/dubboInterface/target/dubboInterface.jar" />
         </element>
       </element>
       <element id="directory" name="META-INF">
